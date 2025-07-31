@@ -144,8 +144,8 @@ Continued use of the Service after changes constitutes acceptance of the updated
 
 If you have questions about this Privacy Policy or our privacy practices, please contact us at:
 
-**Email**: [Insert Contact Email]  
-**Address**: [Insert Business Address]  
+**Email**: Info@adsmessenger.com
+**Address**: Info@adsmessenger.com 
 **Support**: Through the app's help and support section
 
 ## 12. Legal Compliance
