@@ -5,7 +5,7 @@
 
 ## 1. Introduction
 
-Welcome to ADS Messenger ("we," "our," or "us"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile messaging application and related services (the "Service").
+Welcome to ADS Messenger. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile messaging application and related services (the "Service").
 
 By using ADS Messenger, you agree to the collection and use of information in accordance with this Privacy Policy.
 
